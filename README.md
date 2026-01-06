@@ -7,7 +7,10 @@ Author: HOANG AN PHAM
 
 Matriculation number: 10245923
 
-This application is weather chatbot AI running local web on Linux system. Overall, this application show how to integrate a local Large Language Model into a Chatbot and how to integrate them into a local web-based interface.
+This project presents a weather chatbot AI designed to run on a local web interface within a Linux environment. The application demonstrates how to integrate an open‑source Large Language Model (LLM) into a chatbot system and connect it with an external weather API to deliver real‑time weather information. By combining natural language processing with a local deployment, the chatbot can interpret user queries, extract relevant location details, and generate accurate, context‑aware responses without relying on external closed‑source services.
+
+The project also highlights how LLMs can be embedded into web‑based applications, offering flexibility, reproducibility, and privacy by running entirely on local infrastructure. This repository serves as a practical example of building an AI‑driven chatbot pipeline, showcasing both the integration of LLMs and the deployment of a lightweight web interface for interactive communication.
+
 
 <img width="663" height="293" alt="image" src="https://github.com/user-attachments/assets/3a1fd4cc-4b74-48b2-a762-51579f7302a6" />
 
