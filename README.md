@@ -19,6 +19,9 @@ Requirements:
 - linux operation
 - 8GB ram minimum
 - 8GB rom for downloading package and LLM model
+- 
+Note:
+This application does not support the CUDA (GPU) at this time, it will takes time for the LLM to response to your question, it can take about 2 minutes to get the answer from LLM depending on your hardware.
 
 ## Set up
 1. Clone respon
