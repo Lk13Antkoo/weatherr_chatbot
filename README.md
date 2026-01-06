@@ -9,6 +9,8 @@ Matriculation number: 10245923
 
 This application is weather chatbot AI running local web on Linux system. Overall, this application show how to integrate a local Large Language Model into a Chatbot and how to integrate them into a local web-based interface.
 
+<img width="663" height="293" alt="image" src="https://github.com/user-attachments/assets/3a1fd4cc-4b74-48b2-a762-51579f7302a6" />
+
 Requirements:
 
 - linux operation
@@ -39,12 +41,15 @@ python -m spacy download en_core_web_sm
 ```
 
 ## Running
+1. On the Terminal, run the command below
 ```bash
 python run.py
 ```
-Click on the localhost address (in the image) to open local web interface
+2. To open the local web interface, click on the localhost address in the terminal (example in the image).
 ![alt text](image.png)
-Local web 
+
+4. On local web, type in the box to ask about the current weather information. ^^ Have fun.
 ![alt text](image-1.png)
+
 From terminal you can see the process, for debugging purpose only, the extracted place and weather information will be shown only on terminal.
 
